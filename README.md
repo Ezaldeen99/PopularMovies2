@@ -5,7 +5,11 @@ An Android app to let you browse the most popular movies as well as the highest 
 Features
 
 Ability to bookmark favourite movies 
-Offline viewing of favourite movie details
-Tablet support
-Handles different network sitautions
-Abilty to share details of movies
+
+Offline viewing of favourite movie details 
+  
+Tablet support 
+
+Handles different network sitautions 
+
+Abilty to share details of movies 
