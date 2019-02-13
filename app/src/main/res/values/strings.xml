@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="sort_by">sort by</string>
+    <string name="error">Error fetching data, check your internet connection </string>
+    <string name="most_popular">most popular</string>
+    <string name="top_rated">top rated</string>
+    <string name="comments">comments</string>
+    <string name="favorite">Favorites</string>
+    <string name="Error_Fav">No Movies</string>
+</resources>
